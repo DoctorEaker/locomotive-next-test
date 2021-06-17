@@ -1,0 +1,19 @@
+{
+  "name": "nextjs-with-locomotive-scroll-v2",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "locomotive-scroll": "4.0.6",
+    "next": "latest",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "use-resize-observer": "6.1.0"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "description": "Let use Locomotive Scroll by calling it on _app instead of every page"
+}
